@@ -1,4 +1,5 @@
 # 🚀 Spacecraft_HIL_Simulation
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A real-time Hardware-in-the-Loop (HIL) simulation for spacecraft avionics — built in Python.  
 This project simulates a gyroscope sensor and a basic flight computer, allowing real-time interaction to modify signal parameters mid-simulation.
