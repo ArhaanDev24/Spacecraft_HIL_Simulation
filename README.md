@@ -38,3 +38,7 @@ This project simulates a gyroscope sensor and a basic flight computer, allowing 
 Install required libraries:
 ```bash
 pip install numpy matplotlib
+
+## 📈 Sample Output
+
+![Gyroscope Plot](gyro_data_interactive.png)
