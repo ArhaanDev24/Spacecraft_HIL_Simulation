@@ -47,7 +47,7 @@ pip install numpy matplotlib
 ## ▶️ Run the Simulation
 
 ```bash
-python hil_simulation.py
+python Spacecraft_HIL_Simulation.py
 ```
 
 During simulation, you can type:
