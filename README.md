@@ -63,7 +63,7 @@ During simulation, you can type:
 
 ## 📈 Sample Output
 
-![Gyroscope Plot]()
+![Gyroscope Plot](gyro_data.png)
 
 ---
 
